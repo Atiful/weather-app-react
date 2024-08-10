@@ -1,0 +1,22 @@
+.InfoBox p {
+    color : black;
+    margin : 2px;
+}
+
+.InfoBox h2{
+    color : black;
+}
+
+.InfoBox{
+    margin : 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+span{
+    position: relative;
+    top : 5px;
+    margin : 5px;
+}
